@@ -1,0 +1,23 @@
+{
+  "name": "my-refocus-assignments",
+  "version": "1.0.0",
+  "description": "Hi, I am Louver Rai Corpus, 32 years old from Cavite.\r Bachelor's Degree holder with second level eligibility.\r A hardworking, creative, flexible and with pleasing personality.",
+  "main": "bmi_calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sir-Vher-24/My-Refocus-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sir-Vher-24/My-Refocus-Assignment/issues"
+  },
+  "homepage": "https://github.com/Sir-Vher-24/My-Refocus-Assignment#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
